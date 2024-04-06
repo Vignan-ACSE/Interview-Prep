@@ -6,7 +6,7 @@
 
 # Example 2:
 # Input: [1,2,3,4] 
-# excepted output: false
+# Output: false
 
 # As usual we'll get the naive approach out of the way first.
 
